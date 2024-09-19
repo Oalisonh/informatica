@@ -17,7 +17,7 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 # Informação Pessoal
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Aluno |   Alison H.         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()              |
+| Aluno |   Alison H.         |                  |
 
 
 # Objetivo das Aulas
