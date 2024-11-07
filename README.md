@@ -14,7 +14,7 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 # Aulas
 
 ## Aulas - excel - (soma/cont-se/se)
-[arquivo ded aula]
+[arquivo ded aula]https://github.com/Oalisonh/informatica/blob/48c4346f02fd3a524c50b0c822438aaae1e34a2b/Planilha%20M%C3%A9dia.xlsx
 Desenvolver as habilidades e competências relacionadas ao campo da Informática
 
 # Informação Pessoal
