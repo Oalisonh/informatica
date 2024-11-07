@@ -47,6 +47,7 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 [arquivo de aula](https://github.com/Oalisonh/informatica/blob/90fbad4e3b84bee328b904188747c37c954953a6/Dados_Abertos.pbix)
 
 ![aula](https://github.com/user-attachments/assets/0145316a-0187-431c-a489-e0b3eab3b68b)
+![aula](https://github.com/user-attachments/assets/d3b91140-c24f-4817-b13a-263f196100ee)
 
 
 # Informação Pessoal
