@@ -43,8 +43,8 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 
 ![aula](https://github.com/user-attachments/assets/b135cddd-1fe3-4740-8fd8-34ff3cd5378d)
 
-
-Desenvolver as habilidades e competências relacionadas ao campo da Informática
+## Aula - Power BI - Análise Dos Dados Dos Ex-Presidentes Da Republica
+[arquivo de aula](
 
 # Informação Pessoal
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                      |
