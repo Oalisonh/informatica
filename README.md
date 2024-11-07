@@ -13,7 +13,7 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 
 # Aulas
 
-## Aulas - excel - (soma/cont-se/se)
+## Aula - excel - (soma/cont-se/se)
 [arquivo de aula](https://github.com/Oalisonh/informatica/blob/48c4346f02fd3a524c50b0c822438aaae1e34a2b/Planilha%20M%C3%A9dia.xlsx)
 
 ![aula 1](https://github.com/user-attachments/assets/09c5a842-5ed0-46c2-ba55-7c0796a20eea)
