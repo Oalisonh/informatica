@@ -60,7 +60,8 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 # Informação Pessoal
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Aluno |   Alison H.   |     ![download](https://github.com/user-attachments/assets/7e080fc8-9393-4207-bbe7-79618029be4b)
+| Aluno |   Alison H.   |    ![download](https://github.com/user-attachments/assets/075dba7d-6344-4124-9680-96b7ece887f9)
+
 
 
 
