@@ -72,16 +72,6 @@ Esta matéria tem como objetivo ajudar e facilitar na utilização do excel e ou
 * Desenvolver habilidades técnicas.
 
 
-# Funcionalidades e registros (vídeos e apresentações)
-
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
-
-# Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
 <details>
