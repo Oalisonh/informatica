@@ -16,13 +16,17 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 ## Aula - excel - (soma/cont-se/se)
 [arquivo de aula](https://github.com/Oalisonh/informatica/blob/48c4346f02fd3a524c50b0c822438aaae1e34a2b/Planilha%20M%C3%A9dia.xlsx)
 
-![aula 1](https://github.com/user-attachments/assets/09c5a842-5ed0-46c2-ba55-7c0796a20eea)
+![aula ](https://github.com/user-attachments/assets/09c5a842-5ed0-46c2-ba55-7c0796a20eea)
 
 ## Aula - excel - gráficos
 [arquivo de aula](https://github.com/Oalisonh/informatica/blob/8b62c13313a447b1b5e3e8c495f185dc94d3437e/2024.08_dados-abertos-ex-presidentes.xlsx)
 
 ![aula](https://github.com/user-attachments/assets/4cb45b3a-2dc9-455e-a861-17391b124cc4)
 
+## Aula - excel - Gráficos
+[arquivo de aula](https://github.com/Oalisonh/informatica/blob/27c449940d3b5ca61e2415c98b48a65546aa258e/2024.08_dados-abertos-ex-presidentes.xlsx)
+
+![aula](https://github.com/user-attachments/assets/e2133d44-1e44-4d84-9b33-0c068a213ff2)
 
 Desenvolver as habilidades e competências relacionadas ao campo da Informática
 
