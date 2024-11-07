@@ -33,6 +33,9 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 
 ![aula](https://github.com/user-attachments/assets/4424138f-a4ef-4268-82d8-ab18f1d1d215)
 
+## Aula - Power BI - Estudo De Vendas De Lojas E Filiais Em Diferentes Cidades
+[arquivo de aula]
+
 
 Desenvolver as habilidades e competências relacionadas ao campo da Informática
 
