@@ -12,6 +12,9 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 
 
 # Aulas
+
+## Aulas - excel - (soma/cont-se/se)
+[arquivo ded aula]
 Desenvolver as habilidades e competências relacionadas ao campo da Informática
 
 # Informação Pessoal
