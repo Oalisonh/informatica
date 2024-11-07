@@ -38,6 +38,10 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 
 ![aula](https://github.com/user-attachments/assets/3ee31259-ed1a-4649-98af-a76472c683d6)
 
+## Aula - Power BI - Análise De Dados Dos Indicadores Das Escolas De São Paulo
+[arquivo de aula](https://github.com/Oalisonh/informatica/blob/2f2230e74105218193ea6ac7df59390be9043489/atividade%20power%20bi.pbix)
+
+![aula](https://github.com/user-attachments/assets/b135cddd-1fe3-4740-8fd8-34ff3cd5378d)
 
 
 Desenvolver as habilidades e competências relacionadas ao campo da Informática
