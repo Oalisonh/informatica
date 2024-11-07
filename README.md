@@ -49,6 +49,9 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 ![aula](https://github.com/user-attachments/assets/0145316a-0187-431c-a489-e0b3eab3b68b)
 ![aula](https://github.com/user-attachments/assets/d3b91140-c24f-4817-b13a-263f196100ee)
 
+## aula - Power BI - Continuação De Análise Dos Dados Dos Ex-Presidentes Da Republica
+[arquivo de aula]
+
 
 # Informação Pessoal
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                      |
